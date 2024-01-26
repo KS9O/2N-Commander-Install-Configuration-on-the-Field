@@ -5,7 +5,7 @@
 3. Configure
 
 # Assignment and Research
-- As a low voltage technician my employer assigned me to install and configure a 2N Access Commander, my project manager that assigned this to me said this is a new unit that the company hasn't used before and asked me to figure it out, as a newly hire i was more than excited to accept the challenge!
+- My employer assigned me to install and configure a 2N Access Commander, my project manager that assigned this to me said this is a new unit that the company hasn't used before and asked me to figure it out, as a newly hire i was more than excited to accept the challenge!
 
 - First and foremost, I looked up what a 2N Access Commander can do, which is, an access control software that is highly scable to manage and monitor access status within office intercom systems, tracking attendance, access rules and much more. 
 ![Alt text](assets/IMG_6671.jpg)
