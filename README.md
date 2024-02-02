@@ -13,7 +13,7 @@
 ![Alt text](assets/IMG_6669.jpg)
 # Install
  ![Alt text](assets/IMG_6668.jpg) 
-- The unit is with a linux operating system, with the default login displayed there 
+- The unit is with a linux operating system, with the default login displayed there ( Always change default credentials, lets protect our envirnoments with a very simple process.)
 - As install was talking place, the system administrator walked in to hand me their designated subnet masks set aside for all the access control card readers and keyfobs.
 ![Alt text](assets/IMG_6676.jpg)
 - We weren't assigned with programming each keyfob/card but were instructed to show their in-house I.T technician how to do it.
